@@ -7,18 +7,18 @@
 ![шаг 1](https://github.com/Shnappy01/LR6/blob/master/%D1%81%D0%BA%D1%80%D0%B8%D0%BD%D1%8B/1.jpg)  
 ### 2. Клонирование удалённого репозитория на компьютер  
 клонируем репозиторий и переходим в директорию  
-![шаг 2](https://github.com/PolyaLo/LR6/blob/report/скрин/2.png?raw=true)  
+![шаг 2](https://github.com/Shnappy01/LR6/blob/master/%D1%81%D0%BA%D1%80%D0%B8%D0%BD%D1%8B/2.jpg)  
 ### 3. Добавление файла через интерфейс GitHub  
-Добавляем файл polyalo.txt через интерфейс GitHub. Подтягиваем изменения в локальный репозиторий.  
-![шаг 3](https://github.com/PolyaLo/LR6/blob/report/скрин/3.png?raw=true)   
+Добавляем файл SR13.txt через интерфейс GitHub. Подтягиваем изменения в локальный репозиторий.  
+![шаг 3](https://github.com/Shnappy01/LR6/blob/master/%D1%81%D0%BA%D1%80%D0%B8%D0%BD%D1%8B/3.jpg)   
 ### 4. Получение всей истории операций  
 Получаем историю всех операций для каждой из веток.  
 ### 5. Получение последних изменениий  
 Получаем историю последних двух операций для каждой из веток.  
-![шаг 4 и 5](https://github.com/PolyaLo/LR6/blob/report/скрин/4.png?raw=true)  
+![шаг 4 и 5](https://github.com/Shnappy01/LR6/blob/master/%D1%81%D0%BA%D1%80%D0%B8%D0%BD%D1%8B/4.jpg)  
 ### 6. Слияние в ветку master  
 Выполняем слияние ветки branch1 в ветку master, разрешив конфликт c помощью графического интерфейса git.  
-![шаг 6](https://github.com/PolyaLo/LR6/blob/report/скрин/5.png?raw=true)  
+![шаг 6](https://github.com/Shnappy01/LR6/blob/master/%D1%81%D0%BA%D1%80%D0%B8%D0%BD%D1%8B/4.jpg)  
 ![шаг 6](https://github.com/PolyaLo/LR6/blob/report/скрин/6.png?raw=true)  
 ![шаг 6](https://github.com/PolyaLo/LR6/blob/report/скрин/7.png?raw=true)  
 ![шаг 6](https://github.com/PolyaLo/LR6/blob/report/скрин/8.png?raw=true)  
