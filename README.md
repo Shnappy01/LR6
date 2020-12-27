@@ -18,10 +18,10 @@
 ![шаг 4 и 5](https://github.com/Shnappy01/LR6/blob/master/%D1%81%D0%BA%D1%80%D0%B8%D0%BD%D1%8B/4.jpg)  
 ### 6. Слияние в ветку master  
 Выполняем слияние ветки branch1 в ветку master, разрешив конфликт c помощью графического интерфейса git.  
-![шаг 6](https://github.com/Shnappy01/LR6/blob/master/%D1%81%D0%BA%D1%80%D0%B8%D0%BD%D1%8B/4.jpg)  
-![шаг 6](https://github.com/PolyaLo/LR6/blob/report/скрин/6.png?raw=true)  
-![шаг 6](https://github.com/PolyaLo/LR6/blob/report/скрин/7.png?raw=true)  
-![шаг 6](https://github.com/PolyaLo/LR6/blob/report/скрин/8.png?raw=true)  
+![шаг 6](https://github.com/Shnappy01/LR6/blob/master/%D1%81%D0%BA%D1%80%D0%B8%D0%BD%D1%8B/5.jpg)  
+![шаг 6](https://github.com/Shnappy01/LR6/blob/master/%D1%81%D0%BA%D1%80%D0%B8%D0%BD%D1%8B/6.jpg)  
+![шаг 6](https://github.com/Shnappy01/LR6/blob/master/%D1%81%D0%BA%D1%80%D0%B8%D0%BD%D1%8B/7.jpg)  
+![шаг 6](https://github.com/Shnappy01/LR6/blob/master/%D1%81%D0%BA%D1%80%D0%B8%D0%BD%D1%8B/8.jpg)  
 ### 7. Удаление побочной ветки  
 Удаляем побочную ветку после успешного слияния.
 ![шаг 7](https://github.com/PolyaLo/LR6/blob/report/скрин/9.png?raw=true)  
