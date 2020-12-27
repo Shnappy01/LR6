@@ -55,13 +55,13 @@
     
 * git branch -d branch   
     
- /*изменение в файле polyalo.lo №1*/   
+ /*изменение в файле Sr13.lo №1*/   
    
 * git add polyalo.txt  
 * git commit -m "changes №1"  
   
 
- /*изменение в файле polyalo.lo №2*/   
+ /*изменение в файле Sr13.lo №2*/   
    
 * git add polyalo.txt  
 * git commit -m "changes №2"  
