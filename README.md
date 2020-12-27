@@ -24,25 +24,25 @@
 ![шаг 6](https://github.com/Shnappy01/LR6/blob/master/%D1%81%D0%BA%D1%80%D0%B8%D0%BD%D1%8B/8.jpg)  
 ### 7. Удаление побочной ветки  
 Удаляем побочную ветку после успешного слияния.
-![шаг 7](https://github.com/PolyaLo/LR6/blob/report/скрин/9.png?raw=true)  
+![шаг 7](https://github.com/Shnappy01/LR6/blob/master/%D1%81%D0%BA%D1%80%D0%B8%D0%BD%D1%8B/10.jpg)  
 ### 8. Фиксирование изменений  
-Делаем изменения в файле polyalo.txt и зафиксируем их, оставляя комментарии два раза.  
-![шаг 8](https://github.com/PolyaLo/LR6/blob/report/скрин/10.png?raw=true)  
+Делаем изменения в файле SR13.txt и зафиксируем их, оставляя комментарии два раза.  
+![шаг 8](https://github.com/Shnappy01/LR6/blob/master/%D1%81%D0%BA%D1%80%D0%B8%D0%BD%D1%8B/11.jpg)  
 ### 9. Откат коммита  
 Делаем «хард» откат коммита.  
-![шаг 9](https://github.com/PolyaLo/LR6/blob/report/скрин/11.png?raw=true)  
+![шаг 9](https://github.com/Shnappy01/LR6/blob/master/%D1%81%D0%BA%D1%80%D0%B8%D0%BD%D1%8B/12.jpg)  
 ### 10. Создание ветки  
 Создаем ветку report для отчёта.   
-![шаг10](https://github.com/PolyaLo/LR6/blob/report/скрин/12.png?raw=true )
+![шаг10](https://github.com/Shnappy01/LR6/blob/master/%D1%81%D0%BA%D1%80%D0%B8%D0%BD%D1%8B/13.jpg)
 
 ## Логи команд:  
-*  git config --global user.name "4918 Лозовая П.Д."
-* git config --global usre.email polina.1009@yandex.ru
-* git clone https://github.com/PolyaLo/LR6
+*  git config --global user.name "4918 Бабурин С.А"
+* git config --global usre.email bombaigr01@gmail.com
+* git clone https://github.com/Shnappy01/LR6
 * cd LR6   
   
   
-/*Добавление файл polyalo.txt через интерфейс GitHub*/
+/*Добавление файл SR13.txt через интерфейс GitHub*/
   
 * git pull  
 * git log  
